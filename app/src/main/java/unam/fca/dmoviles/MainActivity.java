@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Para cambiar el texto de tv
-        tv.setText("Hola mundo");
+        tv.setText("22 de marzo del 2019");
 
         //Actividades
         //a) Agrega un evento  setOnClickListener al boton como viene en la referencia
